@@ -6,7 +6,8 @@ Likes to explore technology.
 
 # Github Activity Level
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crane-R&langs_count=6)
+[![](https://activity-graph.herokuapp.com/graph?username=Crane-R&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Crane-R&show_icons=true&theme=vue)
 
 # Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crane-R&layout=compact&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crane-R&layout=compact&langs_count=8)
