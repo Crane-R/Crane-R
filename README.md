@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Crane-R?theme=rule33">
+<img align="right" src="https://count.getloli.com/get/@:Crane-R?theme=rule1">
 
 ## Developer—Xanthos
 
