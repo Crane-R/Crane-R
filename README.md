@@ -10,4 +10,4 @@ Likes to explore technology.
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Crane-R&show_icons=true&theme=vue)
 
 # Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crane-R&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crane-R&layout=compact&langs_count=6)
