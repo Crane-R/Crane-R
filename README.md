@@ -2,7 +2,7 @@
 
 # Developer—Xanthos
 
-Likes to explore technology.
+Like.
 
 # Github Activity Level
 
